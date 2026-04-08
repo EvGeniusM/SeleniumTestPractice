@@ -1,0 +1,6 @@
+﻿[Bb]in/
+[Oo]bj/
+.idea/
+.env
+*.user
+*.sln.DotSettings.user
